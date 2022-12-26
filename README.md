@@ -42,7 +42,7 @@ BruteXXII is A bruteForce attacking tool
 
 + ```apt install git -y```
 
-+ ```git clone https://github.com/HRCXXII.git/```
++ ```git clone https://github.com/HRCXXII/BRUTEXXII.git/```
 
 + ```cd BruteXXII```
 
